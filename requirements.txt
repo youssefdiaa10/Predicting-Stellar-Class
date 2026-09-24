@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+joblib
+numpy
+xgboost
+lightgbm
+decisiontree
